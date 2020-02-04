@@ -18,7 +18,6 @@ function App() {
       <Route path="/rooms" component={Rooms} />
       <Route path="/rooms/:slug" component={SingleRoom} />
       <Route component={ErrorPage} />
-      
     </Switch>
     </div>
   );

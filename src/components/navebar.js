@@ -32,7 +32,7 @@ class Navebar extends React.Component {
                         <Link to="/rooms">Rooms</Link>
                     </li>
                     <li>
-                        <Link to="/">Home</Link>
+                        <Link to="/loklok"> error </Link>
                     </li>
                 </ul>
             </div>
