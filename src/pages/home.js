@@ -3,6 +3,7 @@ import Hero from '../components/hero';
 import Banner from '../components/banner';
 import { Link } from 'react-router-dom';
 import Services from '../components/services';
+import FuturedRoom from '../components/FuturedRoom';
 
 
 
@@ -14,7 +15,7 @@ const Home = () => {
         </Banner>
     </Hero>
     <Services />
-        Helow from Home of Shah
+    <FuturedRoom />
     </div>;
 
 
